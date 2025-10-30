@@ -73,3 +73,4 @@ The model typically achieves 98-99% accuracy on the MNIST test set after trainin
 ## License
 
 This project is open source and available for educational purposes."# digit_recognizer_app" 
+"# digit_recognizer_app" 
